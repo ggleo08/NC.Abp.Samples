@@ -1,2 +1,2 @@
 # NC.Abp.Samples
-abp demo
+learn Abp VNext with Jesse.
